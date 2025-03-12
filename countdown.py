@@ -7,7 +7,7 @@ f = ("Arial",24)
 ws = Tk()
 ws.geometry("300x250+1500+700")
 ws.title("CountDown")
-ws.config(bg='#345')
+ws.config(bg='#895')
 
 hour=StringVar()
 minute=StringVar()
